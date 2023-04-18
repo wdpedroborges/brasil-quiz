@@ -1,12 +1,3 @@
-# Brasil Quiz
-## A quiz based in the model Better Quiz
-
----
-
-Brasil Quiz is a quiz for those who have interest in learning more about Brazil (in Portuguese it's written like "Brasil"). Here, you'll get to know the capitals, the flags, the hymns and so much more about all the brazilian states.
-
----
-
 ![badge](https://img.shields.io/github/watchers/wdpedroborges/brasil-quiz?style=social)
 ![badge](https://img.shields.io/github/stars/wdpedroborges/brasil-quiz?style=social)
 ![badge](https://img.shields.io/github/license/wdpedroborges/brasil-quiz)
@@ -15,11 +6,14 @@ Brasil Quiz is a quiz for those who have interest in learning more about Brazil 
 ![badge](https://img.shields.io/badge/powered%20by-typescript-blue)
 ![badge](https://img.shields.io/badge/powered%20by-sass.js-blue)
 
----
+# Brasil Quiz
+## A quiz based in the model Better Quiz
+
+Brasil Quiz is a quiz for those who have interest in learning more about Brazil (in Portuguese it's written like "Brasil"). Here, you'll get to know the capitals, the flags, the hymns and so much more about all the brazilian states.
 
 ## Live Demo
 
-[Click here to see it]((wdpedroborges.github.io/brasil-quiz))
+wdpedroborges.github.io/brasil-quiz
 
 ## Features
 
