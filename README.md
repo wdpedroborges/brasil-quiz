@@ -9,7 +9,7 @@
 # Brasil Quiz
 ## A quiz based in the model Better Quiz
 
-Brasil Quiz is a quiz for those who have interest in learning more about Brazil (in Portuguese it's written like "Brasil"). Here, you'll get to know the capitals, the flags, the hymns and so much more about all the brazilian states.
+The quiz app made in React.js and Typescript offers an exciting way to learn more about Brazil. The app focuses on various aspects of Brazil, including its geography, history, and culture. The app uses maps of the Brazilian states, coats of arms and even the hymns to quiz users on their knowledge of Brazil.
 
 ## Live Demo
 
